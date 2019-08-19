@@ -1,0 +1,47 @@
+$gray: #49c1b9;
+
+body {
+color: white;
+font-style: oblique;
+font-size: larger;
+background: $gray; // Using this variable
+}
+
+a {
+  color: red;
+  &:hover {
+    color: red;
+  }
+}
+
+.form{
+background-color: aquamarine;
+color: purple;
+font-size: larger;
+padding: 143px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
